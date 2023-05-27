@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+.header1 {
+	text-align: center;
+}
+
+.form1 input {
+	width: 100%;
+}
+
+.form1 button {
+	background-color: blue;
+	color: white;
+	border: 1px solid white;
+	border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
